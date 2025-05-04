@@ -1,6 +1,6 @@
 # TravelSite - Online Travel Reservation System
-In this project, our group (team of 4) have designed and implemented a relational database system to support the
-operations of an online travel reservation system. We have used HTML for the user interface,
+In this project, I have designed and implemented a relational database system to support the
+operations of an online travel reservation system. I have used HTML for the user interface,
 MySQL for the database server, and Java JDBC for the backend connectivity between the user interface and
 the database server.
 
